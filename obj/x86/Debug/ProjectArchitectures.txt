@@ -1,0 +1,2 @@
+C:\Users\chhun\Documents\GitHub\repo-searching-uwp.Tests.MSTest\repo-searching-uwp.Tests.MSTest.csproj;x86
+C:\Users\chhun\Documents\GitHub\repo-searching-uwp\repo-searching-uwp.csproj;x86

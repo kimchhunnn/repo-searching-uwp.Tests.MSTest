@@ -1,0 +1,4 @@
+WinMetadata\Windows.winmd
+repo-searching-uwp.Tests.MSTest.xr.xml
+UnitTestApp.xbf
+Properties\UnitTestApp.rd.xml
